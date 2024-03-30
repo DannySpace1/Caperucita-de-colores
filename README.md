@@ -1,2 +1,2 @@
 # Caperucita-de-colores
-Reprecentación de caperucita de colores de Bruno Munari
+representación de caperucita de colores de Bruno Munari
